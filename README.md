@@ -32,13 +32,13 @@ $ python SGD noise.py
 $ python SGD.py
 ```
 
-# Run Neural sparsity, structured methods for ResNet-18 on CIFAR-10.
+# Run Neural sparsity for ResNet-18 on CIFAR-10.
  ```shell
 $ python Resnet18.py
 $ python Leaky ReLU.py
 ```
 
- # Run Weight sparsity, structured methods for ResNet-18 on CIFAR-10.
+ # Run Weight sparsity for ResNet-18 on CIFAR-10.
  ```shell
 $ python Resnet18.py
 $ python Leaky ReLU.py
